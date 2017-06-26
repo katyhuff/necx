@@ -1,0 +1,41 @@
+- title: "Award"
+  url: "/award/"
+  subcategories:
+    - subtitle: "Award"
+      suburl: "/award"
+    - subtitle: "People"
+      suburl: "/award/people"
+    - subtitle: "References"
+      suburl: "/award/references/"
+
+- title: "Kick-Off"
+  url: "/kickoff/"
+  subcategories:
+    - subtitle: "Agenda"
+      suburl: "/kickoff/agenda"
+    - subtitle: "Products"
+      suburl: "/kickoff/products"
+
+- title: "Interim"
+  url: "/interim/"
+  subcategories:
+    - subtitle: "Meetings"
+      suburl: "/interim/meetings"
+    - subtitle: "Products"
+      suburl: "/interim/products"
+
+- title: "Retrospective"
+  url: "/retrospective/"
+  subcategories:
+    - subtitle: "Agenda"
+      suburl: "/retrospective/agenda"
+    - subtitle: "Products"
+      suburl: "/retrospective/products"
+
+- title: "Manual"
+  url: "/manual/"
+  subcategories:
+    - subtitle: "Mission"
+      suburl: "/manual/mission"
+    - subtitle: "DIY"
+      suburl: "/manual/diy"

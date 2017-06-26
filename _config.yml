@@ -1,8 +1,8 @@
 # Site settings
 title: NECX
 email: katyhuff@gmail.com
-description: "Website for the Nuclear Engineering Curriculum eXchange project."
-baseurl: "/cc" # the subpath of your site, e.g. /blog
+description: "Website for the Strategic Instructional Innovations Program Project: Collaborative Open-Source Curiculum Development"
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://arfc.github.io/cc" # the base hostname & protocol for your site
 twitter_username: katyhuff
 github_username: arfc
