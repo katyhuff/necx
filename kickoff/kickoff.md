@@ -1,6 +1,6 @@
 ---
 layout: manual
-title: Kick-off Meeting Agenda
+title: Kick-off Meeting
 subtitle: "June 28 & 29, 2017"
 permalink: /kickoff/
 ---
@@ -9,7 +9,7 @@ permalink: /kickoff/
 
 We will gather at the [Allerton Mansion](http://allerton.illinois.edu/). 
 
-![http://allerton.illinois.edu/wp-content/uploads/about-allerton-10.jpg](http://allerton.illinois.edu/wp-content/uploads/about-allerton-10.jpg)
+![http://allerton.illinois.edu/wp-content/uploads/about-allerton-1.jpg](http://allerton.illinois.edu/wp-content/uploads/about-allerton-1.jpg)
 
 ## Agenda 
 The agenda for the workshop can be found [here](./agenda).
