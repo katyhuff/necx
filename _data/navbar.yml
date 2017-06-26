@@ -2,7 +2,7 @@
   url: "/award/"
   subcategories:
     - subtitle: "Award"
-      suburl: "/award/award"
+      suburl: "/award"
     - subtitle: "People"
       suburl: "/award/people"
     - subtitle: "References"
