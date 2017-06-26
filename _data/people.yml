@@ -2,9 +2,9 @@
   pic: /img/people/huffk.png
   dates: 2016-present
   status: PI
-  role: Assistant Professor, PI
-  src: http://kdhuff.web.engr.illinois.edu
-  url: http://kdhuff.web.engr.illinois.edu
+  role: Assistant Professor, University of Illinois at Urbana-Champaign
+  src: http://arfc.npre.illinois.edu
+  url: http://arfc.npre.illinois.edu
   description: 'Katy is the director of the Advanced Reactors and Fuel Cycles group at Illinois.'
   social:
     - url: http://katyhuff.youcanbook.me
@@ -24,7 +24,7 @@
   pic: https://avatars0.githubusercontent.com/u/5383842?v=3&s=460 
   status: Co-PI
   dates: 2016-present
-  role: Teaching Assistant Professor, Co-PI
+  role: Teaching Assistant Professor, University of Illinois at Urbana-Champaign
   src: http://cse.illinois.edu
   url: http://cse.illinois.edu
   description: 'Description of Neal.'
@@ -39,7 +39,7 @@
 - name: Jennifer Amos
   pic: https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=5989&s=140&type=portrait
   dates: 2016-present
-  role: Teaching Associate Professor, AE3 Liaison
+  role: Teaching Associate Professor, University of Illinois at Urbana-Champaign, AE3 Liaison
   description: 'Description'
   social:
     - url: mailto:jamos@illinois.edu
@@ -52,7 +52,7 @@
 - name: Paul Wilson
   pic: https://avatars2.githubusercontent.com/u/764326?v=3&s=460
   dates: 2016-present
-  role: Professor
+  role: Professor, University of Wisconsin - Madison
   src: http://cnerg.github.io
   url: http://cnerg.github.io
   description: 'Description'
@@ -68,9 +68,9 @@
       name: Twitter
 
 - name: Steven Skutnik
-  pic: https://avatars2.githubusercontent.com/u/3296939?v=3&s=460
+  pic: http://ne.utk.edu/wp-content/uploads/sites/19/2016/06/Skutnik_NE.jpg
   dates: 2016-present
-  role: Assistant Professor
+  role: Assistant Professor, University of Tennessee - Knoxville
   description: 'Description'
   social:
     - url: mailto:sskutnik@utk.edu
@@ -86,7 +86,7 @@
 - name: Jeremy Roberts
   pic: http://www.mne.k-state.edu/docs/people/portraits/jaroberts_med.jpg
   dates: 2016-present
-  role: 
+  role: Assistant Professor, Kansas State University
   description: 'Description'
   social:
     - url: mailto:jaroberts@ksu.edu
@@ -99,7 +99,7 @@
 - name: Robert Borrelli
   pic: https://avatars1.githubusercontent.com/u/7349704?v=3&s=460 
   dates: 2016-present
-  role: Assistant Professor
+  role: Assistant Professor, University of Idaho - Idaho Falls
   description: 'Description'
   social:
     - url: mailto:rborrelli@uidaho.edu
@@ -115,7 +115,7 @@
 - name: Anthony Scopatz
   pic: https://avatars1.githubusercontent.com/u/320553?v=3&s=460
   dates: 2016-present
-  role: Assistant Professor
+  role: Assistant Professor, University of South Carolina
   description: 'Description'
   social:
     - url: mailto:scopatz@cec.sc.edu
