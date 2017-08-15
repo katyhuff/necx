@@ -7,6 +7,20 @@ url: "https://arfc.github.io/necx" # the base hostname & protocol for your site
 twitter_username: katyhuff
 github_username: arfc
 logo: "/img/nekx.png"
+collections:
+  nodes:
+    output: true
+    permalink: /:collection/:path
+
+
+defaults:
+  -
+    scope:
+      path: "_nodes/"
+      type: nodes  # <= here I specify the nodes collection
+    values:
+      layout: nodes
+      exclude: ['_nodes/*/assessments/*.md','_nodes/*/exercises/*.md','_nodes/nodes.md']
 
 # Agency color settings
 color:
