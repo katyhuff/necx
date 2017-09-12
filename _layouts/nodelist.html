@@ -1,0 +1,40 @@
+---
+layout: default
+---
+<!-- nodelist -->
+    <section id="nodelist" class="{% cycle '', 'bg-light-gray' %}">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">{{ page.title }}</h2>
+                    <h3 class="section-subheading text-muted">{{ page.subtitle }}</h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+        {% for node in site.nodes %}
+        {% if node.prerequisites.first %} <!-- confirms top-level node -->
+            <div class="row node">
+                <div class="col-lg-8">
+                        <h3><a href="{{ site.baseurl }}/nodes/{{ node.uid 
+                                }}/content">{{ node.title }}</a></h3> <h4 class= "text-muted">Learning Objectives</h4>
+                        <ul>
+                        {% for obj in node.learning_objectives %}
+                        <li class="text-muted">{{ obj }}</li>
+                        {% endfor %}
+                        </ul>
+                        <h4 class= "text-muted">Prerequisites</h4>
+                        <ul>
+                        {% for prereq in node.prerequisites %}
+                        <li class="text-muted">{{ prereq }}</li>
+                        {% endfor %}
+                        </ul>
+                </div>
+            </div>
+        {% endif %}
+        {% endfor %}
+            {{ content }}
+        </div>
+    </section>
+    

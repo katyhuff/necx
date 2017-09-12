@@ -16,11 +16,10 @@ collections:
 defaults:
   -
     scope:
-      path: "_nodes/"
-      type: nodes  # <= here I specify the nodes collection
+      path: ""
+      type: "nodes"  # <= here I specify the nodes collection
     values:
-      layout: nodes
-      exclude: ['_nodes/*/assessments/*.md','_nodes/*/exercises/*.md','_nodes/nodes.md']
+      layout: "nodes"
 
 # Agency color settings
 color:
